@@ -10,7 +10,7 @@ Tensorflow: 2.9.1
 Keras: 2.9.0  
 Datasets: Custom  
 
-## Refereces
+## References
 Paper: [Generating Chinese Typographic and Handwriting Fonts from a Small Font Sample Set](https://ieeexplore.ieee.org/document/8489500)  
 Rewrite: [Rewrite-tf-keras](https://github.com/huangxinping/Rewrite-tf-keras) - An unofficial implementation
 
