@@ -1,5 +1,6 @@
 # XingZi
-Xingzi - Tensorflow 2 Implementation (2018 International Joint Conference on Neural Networks (IJCNN))    
+> Xingzi - Tensorflow 2 Implementation (2018 International Joint Conference on Neural Networks (IJCNN))    
+
 ![output](./output.jpg)
 
 ## Intruduction
